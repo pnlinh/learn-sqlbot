@@ -1,0 +1,2 @@
+# learn-sqlbot
+Learn sql
